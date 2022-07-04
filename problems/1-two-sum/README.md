@@ -21,3 +21,5 @@ std::vector<int> twoSum(const std::vector<int> &nums, const int &target)
   return std::vector<int>{};
 }
 ```
+
+Time complexity is `O(N)` while space complexity is also `O(N)`.
